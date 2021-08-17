@@ -8,4 +8,3 @@ This is the way how we would normally read a video file, process each frame and 
 In multi file, the video processing job, that is normally done using one process, 
 is now divided equally amongst the total number of processors available on the executing device.
 
-https://github.com/tardigrade-10/multiprocessing_in_python/blob/main/multi_processing.mp4
